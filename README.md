@@ -24,9 +24,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viacheslav-Bo&show_icons=true&theme=radical" height="150" width ="349"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viacheslav-Bo&layout=compact&theme=radical" height="150" width ="349" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Viacheslav-Bo&show_icons=true&theme=radical" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viacheslav-Bo&layout=compact&theme=radical" width="300" />
 </p>
+
 
 ---
 
