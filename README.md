@@ -45,11 +45,16 @@
 
 ### 🏆 Achievements
 
-<div style="display: flex; justify-content: center; width: 100%;">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Viacheslav-Bo&theme=radical&no-frame=true&no-bg=true&margin-w=4&title=-Stars,-Followers,-Issues"
-  />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        src="https://github-profile-trophy.vercel.app/?username=Viacheslav-Bo&theme=radical&no-frame=true&no-bg=true&margin-w=4&title=-Stars,-Followers,-Issues"
+      />
+    </td>
+  </tr>
+</table>
+
 
 
 ---
