@@ -24,9 +24,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="420" src="https://github-readme-stats-eight-inky-79.vercel.app/api?username=Viacheslav-Bo&show_icons=true&theme=radical" />
-  <img width="420" src="https://streak-stats.demolab.com?user=Viacheslav-Bo&theme=radical" />
+  <img height="180" src="https://github-readme-stats-eight-inky-79.vercel.app/api?username=Viacheslav-Bo&show_icons=true&theme=radical" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Viacheslav-Bo&theme=radical" />
 </p>
+
 
 
 ---
