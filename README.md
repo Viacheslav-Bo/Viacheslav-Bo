@@ -24,9 +24,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats-eight-inky-79.vercel.app/api?username=Viacheslav-Bo&show_icons=true&theme=radical" />
-  <img height="175" src="https://github-readme-stats-eight-inky-79.vercel.app/api/top-langs/?username=Viacheslav-Bo&layout=compact&langs_count=6&theme=radical" />
+  <img height="180" src="https://github-readme-stats-eight-inky-79.vercel.app/api?username=Viacheslav-Bo&show_icons=true&theme=radical" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Viacheslav-Bo&theme=radical" />
 </p>
+
 ---
 
 ### 🐍 Contribution Snake
