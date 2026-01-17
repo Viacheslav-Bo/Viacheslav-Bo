@@ -23,13 +23,16 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display:flex; justify-content:center; gap:12px; flex-wrap:nowrap;">
-  <img height="180" src="https://github-readme-stats-eight-inky-79.vercel.app/api?username=Viacheslav-Bo&show_icons=true&theme=radical" />
-  <img height="180" src="https://streak-stats.demolab.com?user=Viacheslav-Bo&theme=radical" />
-</div>
-
-
-
+<table align="center">
+  <tr>
+    <td>
+      <img height="180" src="https://github-readme-stats-eight-inky-79.vercel.app/api?username=Viacheslav-Bo&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img height="180" src="https://streak-stats.demolab.com?user=Viacheslav-Bo&theme=radical" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🐍 Contribution Snake
@@ -47,9 +50,9 @@
 
 ### 🏆 Achievements
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Viacheslav-Bo&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" />
-</div>
+</p>
 ---
 
 
