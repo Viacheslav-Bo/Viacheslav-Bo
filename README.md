@@ -23,13 +23,10 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-eight-inky-79.vercel.app/api?username=Viacheslav-Bo&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Viacheslav-Bo&theme=radical)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Viacheslav-Bo&theme=radical)
-
-
+<p align="center">
+  <img width="420" src="https://github-readme-stats-eight-inky-79.vercel.app/api?username=Viacheslav-Bo&show_icons=true&theme=radical" />
+  <img width="420" src="https://streak-stats.demolab.com?user=Viacheslav-Bo&theme=radical" />
+</p>
 
 
 ---
