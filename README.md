@@ -47,9 +47,7 @@
 
 ### 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy-eta-henna.vercel.app?username=Viacheslav-Bo&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Viacheslav-Bo)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
