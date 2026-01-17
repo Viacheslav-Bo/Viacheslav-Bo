@@ -27,9 +27,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Viacheslav-Bo&theme=radical)
 
-![GitHub Stats](https://github-readme-stats-eight-inky-79.vercel.app/api?username=Viacheslav-Bo&show_icons=true&theme=radical&v=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Viacheslav-Bo&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Viacheslav-Bo&theme=radical&v=1)
 
 
 
