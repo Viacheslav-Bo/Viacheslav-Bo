@@ -24,14 +24,14 @@
 ### 📊 GitHub Stats
 
 <table align="center">
-  <tr>
+  <!-- <tr> -->
     <!-- <td>
       <img height="180" src="https://github-readme-stats-eight-inky-79.vercel.app/api?username=Viacheslav-Bo&show_icons=true&theme=radical" />
     </td> -->
     <td>
       <img height="180" src="https://streak-stats.demolab.com?user=Viacheslav-Bo&theme=radical" />
     </td>
-  </tr>
+  <!-- </tr> -->
 </table>
 ---
 
@@ -48,11 +48,11 @@
 
 ---
 
-### 🏆 Achievements
+<!--### 🏆 Achievements -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Viacheslav-Bo&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=8" />
-</p>
+</p> -->
 
 ---
 
