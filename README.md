@@ -2,7 +2,7 @@
 <h1 align="center">
   Hi, I'm Viacheslav! 👋
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=435&lines=Fullstack+Developer+in+progress...;JavaScript%2C+React%2C+Node.js;Love+learning+and+building+cool+stuff" alt="Typing SVG"/> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=435&lines=Fullstack+Developer+in+progress...;JavaScript%2C+React%2C+Next%2C+Node.js;Love+learning+and+building+cool+stuff" alt="Typing SVG"/> 
 </h1>
 
 ---
@@ -19,23 +19,20 @@
 </p>
 
 
----
 
-### 📊 GitHub Stats
+
+<!-- ### 📊 GitHub Stats
 
 <table align="center">
-  <!-- <tr> -->
-    <!-- <td>
+<tr> 
+     <td>
       <img height="180" src="https://github-readme-stats-eight-inky-79.vercel.app/api?username=Viacheslav-Bo&show_icons=true&theme=radical" />
     </td> -->
     <td>
       <img height="180" src="https://streak-stats.demolab.com?user=Viacheslav-Bo&theme=radical" />
-    </td>
-  <!-- </tr> -->
-</table>
----
+    </td> </tr> </table> -->
 
-### 🐍 Contribution Snake
+<!--### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -43,10 +40,10 @@
     <source srcset="https://raw.githubusercontent.com/Viacheslav-Bo/Viacheslav-Bo/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)" />
     <img src="https://raw.githubusercontent.com/Viacheslav-Bo/Viacheslav-Bo/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="opacity:0.7" />
   </picture>
-</p>
+</p>-->
 
 
----
+
 
 <!--### 🏆 Achievements -->
 
@@ -54,12 +51,9 @@
   <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Viacheslav-Bo&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=8" />
 </p> -->
 
----
 
 
----
-
-### 📫 Contact me
+<!--### 📫 Contact me
 
 <p align="center">
   <a href="https://t.me/Menyanthes" target="_blank">
@@ -68,6 +62,7 @@
 </p>
 
 ---
+-->
 
 ### 👀 Visitor count
 
