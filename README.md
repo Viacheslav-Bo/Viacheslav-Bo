@@ -25,9 +25,9 @@
 
 <table align="center">
   <tr>
-    <td>
+    <!-- <td>
       <img height="180" src="https://github-readme-stats-eight-inky-79.vercel.app/api?username=Viacheslav-Bo&show_icons=true&theme=radical" />
-    </td>
+    </td> -->
     <td>
       <img height="180" src="https://streak-stats.demolab.com?user=Viacheslav-Bo&theme=radical" />
     </td>
