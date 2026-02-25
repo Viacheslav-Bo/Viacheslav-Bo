@@ -73,7 +73,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Viacheslav-Bo&style=flat-square&color=blue" alt="Visitor count" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" alt="Typing Fire" width="200" />
-</p>
+</p> -->
 
