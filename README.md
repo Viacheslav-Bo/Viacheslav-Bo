@@ -29,18 +29,18 @@
 
 ### 🚀 Projects
 
-* **[Leleka](https://final-project-screencast-front.vercel.app)** — Pregnancy Monitoring Platform * [GitHub Code Front](https://github.com/bozhenko-zakhar/final_project_screencast_front) * [GitHub Code Back](https://github.com/bozhenko-zakhar/final_project_screencast_back)
+* **[Leleka](https://final-project-screencast-front.vercel.app)** — Pregnancy Monitoring Platform | [GitHub Code Front](https://github.com/bozhenko-zakhar/final_project_screencast_front) | [GitHub Code Back](https://github.com/bozhenko-zakhar/final_project_screencast_back)
   * **Stack:** Next.js 16 (App Router), TypeScript, Ant Design (Antd), Formik, Yup, TanStack Query, Zustand.
   * **Backend:** Node.js, Express 5, MongoDB/Mongoose, Bcrypt, Joi/Celebrate, Multer, Cloudinary.
 
-* **[RentalCar](https://bobivnyk-rental-car.vercel.app/)** — Car Rental Platform * [GitHub Code](https://github.com/Viacheslav-Bo/RentalCar)
+* **[RentalCar](https://bobivnyk-rental-car.vercel.app/)** — Car Rental Platform | [GitHub Code](https://github.com/Viacheslav-Bo/RentalCar)
   * **Stack:** Next.js 16 (App Router), TypeScript, React 19, React Compiler, TanStack Query (v5), Zustand, React-Select, React-DatePicker, NProgress.
 
-* **[Paw-paws](https://andreigubsky.github.io/Paw-paws-little-house/)** — Pet adoption platform * [GitHub Code](https://github.com/andreigubsky/Paw-paws-little-house)
+* **[Paw-paws](https://andreigubsky.github.io/Paw-paws-little-house/)** — Pet adoption platform | [GitHub Code](https://github.com/andreigubsky/Paw-paws-little-house)
   * **Role:** Scrum Master.
   * **Stack:** Vanilla JavaScript, HTML5/CSS3, Vite, Axios, Swiper, AOS, Tui-Pagination, SweetAlert2.
 
-* **[Coffee Shop](https://viacheslav-bo.github.io/project-06/)** — Interactive menu application * [GitHub Code](https://github.com/Viacheslav-Bo/project-06)
+* **[Coffee Shop](https://viacheslav-bo.github.io/project-06/)** — Interactive menu application | [GitHub Code](https://github.com/Viacheslav-Bo/project-06)
   * **Role:** Team Lead.
   * **Stack:** Vanilla JavaScript, HTML5/CSS3, Vite, Component-driven HTML injection.
 
