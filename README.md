@@ -22,11 +22,11 @@
 ### 💡 About Me
 
 * **Background:** Strong foundation in business and logistics. I focus on building software that solves real-world problems and creates actual value.
-* 
+
 * **Focus:** Fullstack development. I enjoy the entire process — from crafting responsive UIs with modern React frameworks to designing robust backend logic and APIs.
-* 
+  
 * **Work Style:** I value clean, maintainable code and Agile/Scrum collaboration. I am a fast learner, proactive team player, and always eager to take on new challenges.
-* 
+  
 * **Goal:** Currently looking for a Junior Fullstack Developer position to grow, learn from a great team, and contribute to impactful projects.
 
 ---
