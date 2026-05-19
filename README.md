@@ -1,10 +1,16 @@
-<h1 align="center">Hi, I'm Viacheslav! 👋</h1>
-
-<p align="center">
-  <strong>Fullstack Developer</strong>
+<h1 align="center">
+  Hi, I'm Viacheslav! 👋
   <br>
-  <em>Building complete web solutions from database to user interface.</em>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=435&lines=Learning%2C+building+and+growing;Fullstack+Developer;JavaScript%2C+React%2C+Node.js;Solving+business+tasks+with+code" alt="Typing SVG"/> 
+</h1>
+
+---
+
+### 💡 About Me
+* **Background:** I have a strong background in business and logistics management. This helps me quickly understand how IT solutions drive business value and solve real-world problems.
+* **Focus:** I enjoy the full development process — from building responsive user interfaces to writing server-side logic and connecting them with APIs.
+* **Goal:** Currently seeking a Junior Fullstack Developer position. I am eager to join a professional team, learn best practices, and contribute to meaningful projects.
+* **Work Style:** I write clean, well-documented code and am comfortable working in Agile/Scrum environments. I'm a fast learner and a proactive team player.
 
 ---
 
@@ -18,14 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 </p>
-
----
-
-### 💡 About Me
-* **Background:** Professional business and logistics management expert. This unique blend of experience allows me to understand business requirements deeply and translate them into efficient technical solutions.
-* **Focus:** I enjoy the full development cycle – from creating responsive and user-friendly frontends to designing scalable backend architectures.
-* **Goal:** Currently seeking a Junior Fullstack Developer role to contribute to impactful projects, learn from experienced teams, and deliver high-quality software.
-* **Work Style:** Committed to clean code, Agile/Scrum practices, and continuous professional improvement.
 
 ---
 
@@ -45,34 +43,12 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
-
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Viacheslav-Bo&style=flat-square&color=blue" alt="Visitor count" />
 </p>
 
 
-
-
-
-<h1 align="center">
-  Hi, I'm Viacheslav! 👋
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=435&lines=Fullstack+Developer+in+progress...;JavaScript%2C+React%2C+Next%2C+Node.js;Love+learning+and+building+cool+stuff" alt="Typing SVG"/> 
-</h1>
-
----
-
-### 🛠️ Technologies I use:
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/>
-</p>
 
 
 
