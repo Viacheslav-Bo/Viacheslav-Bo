@@ -21,13 +21,13 @@
 
 ### 💡 About Me
 
-**Background:** Strong foundation in business and logistics. I focus on building software that solves real-world problems and creates actual value.
+**Background:    ** Strong foundation in business and logistics. I focus on building software that solves real-world problems and creates actual value.
 
-**Focus:** Fullstack development. I enjoy the entire process — from crafting responsive UIs with modern React frameworks to designing robust backend logic and APIs.
+**Focus:         ** Fullstack development. I enjoy the entire process — from crafting responsive UIs with modern React frameworks to designing robust backend logic and APIs.
 
-**Work Style:** I value clean, maintainable code and Agile/Scrum collaboration. I am a fast learner, proactive team player, and always eager to take on new challenges.
+**Work Style:    ** I value clean, maintainable code and Agile/Scrum collaboration. I am a fast learner, proactive team player, and always eager to take on new challenges.
 
-**Goal:** Currently looking for a Junior Fullstack Developer position to grow, learn from a great team, and contribute to impactful projects.
+**Goal:          ** Currently looking for a Junior Fullstack Developer position to grow, learn from a great team, and contribute to impactful projects.
 
 ---
 
@@ -42,11 +42,13 @@
     * 🔗 [GitHub Repository](https://github.com/Viacheslav-Bo/RentalCar)
 
 * **[Paw-paws](https://andreigubsky.github.io/Paw-paws-little-house/)** — Pet adoption platform
-    * 📋 **Role:** Scrum Master. 🛠 **Tech:** Vanilla JS, Vite, Axios, Swiper, AOS, SweetAlert2.
+    * 📋 **Role:** Scrum Master. Facilitated daily stand-ups, ensured Agile delivery, and maintained codebase quality.
+    * 🛠 **Tech:** Vanilla JS, Vite, Axios, Swiper, AOS, SweetAlert2.
     * 🔗 [GitHub Repository](https://github.com/andreigubsky/Paw-paws-little-house)
 
 * **[Coffee Shop](https://viacheslav-bo.github.io/project-06/)** — Interactive menu application
-    * 📋 **Role:** Team Lead. 🛠 **Tech:** Vanilla JS, Vite, HTML5/CSS3.
+    * 📋 **Role:** Team Lead. Managed task distribution, coordinated Git workflows, and maintained modular architecture.
+    * 🛠 **Tech:** Vanilla JS, Vite, HTML5/CSS3.
     * 🔗 [GitHub Repository](https://github.com/Viacheslav-Bo/project-06)
 
 ---
