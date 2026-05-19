@@ -20,29 +20,34 @@
 ---
 
 ### 💡 About Me
-* **Background:** I have a strong background in business and logistics management. This helps me quickly understand how IT solutions drive business value and solve real-world problems.
-* **Focus:** I enjoy the full development process — from building responsive user interfaces to writing server-side logic and connecting them with APIs.
-* **Goal:** Currently seeking a Junior Fullstack Developer position. I am eager to join a professional team, learn best practices, and contribute to meaningful projects.
-* **Work Style:** I write clean, well-documented code and am comfortable working in Agile/Scrum environments. I'm a fast learner and a proactive team player.
+
+**Background:** Strong foundation in business and logistics. I focus on building software that solves real-world problems and creates actual value.
+
+**Focus:** Fullstack development. I enjoy the entire process — from crafting responsive UIs with modern React frameworks to designing robust backend logic and APIs.
+
+**Work Style:** I value clean, maintainable code and Agile/Scrum collaboration. I am a fast learner, proactive team player, and always eager to take on new challenges.
+
+**Goal:** Currently looking for a Junior Fullstack Developer position to grow, learn from a great team, and contribute to impactful projects.
 
 ---
 
 ### 🚀 Projects
 
-* **[Leleka](https://final-project-screencast-front.vercel.app)** — Pregnancy Monitoring Platform | [GitHub Code Front](https://github.com/bozhenko-zakhar/final_project_screencast_front) | [GitHub Code Back](https://github.com/bozhenko-zakhar/final_project_screencast_back)
-  * **Stack:** Next.js 16 (App Router), TypeScript, Ant Design (Antd), Formik, Yup, TanStack Query, Zustand.
-  * **Backend:** Node.js, Express 5, MongoDB/Mongoose, Bcrypt, Joi/Celebrate, Multer, Cloudinary.
+* **[Leleka](https://final-project-screencast-front.vercel.app)** — Pregnancy Monitoring Platform
+    * 🛠 **Tech:** Next.js 16, TypeScript, Antd, TanStack Query, Zustand, Node.js, Express 5, MongoDB, Cloudinary.
+    * 🔗 [GitHub Repository](https://github.com/Viacheslav-Bo/final-project-screencast-front)
 
-* **[RentalCar](https://bobivnyk-rental-car.vercel.app/)** — Car Rental Platform | [GitHub Code](https://github.com/Viacheslav-Bo/RentalCar)
-  * **Stack:** Next.js 16 (App Router), TypeScript, React 19, React Compiler, TanStack Query (v5), Zustand, React-Select, React-DatePicker, NProgress.
+* **[RentalCar](https://bobivnyk-rental-car.vercel.app/)** — Car Rental Platform
+    * 🛠 **Tech:** Next.js 16, TypeScript, React 19, React Compiler, TanStack Query, Zustand, React-Select.
+    * 🔗 [GitHub Repository](https://github.com/Viacheslav-Bo/rental-car)
 
-* **[Paw-paws](https://andreigubsky.github.io/Paw-paws-little-house/)** — Pet adoption platform | [GitHub Code](https://github.com/andreigubsky/Paw-paws-little-house)
-  * **Role:** Scrum Master.
-  * **Stack:** Vanilla JavaScript, HTML5/CSS3, Vite, Axios, Swiper, AOS, Tui-Pagination, SweetAlert2.
+* **[Paw-paws](https://andreigubsky.github.io/Paw-paws-little-house/)** — Pet adoption platform
+    * 📋 **Role:** Scrum Master. 🛠 **Tech:** Vanilla JS, Vite, Axios, Swiper, AOS, SweetAlert2.
+    * 🔗 [GitHub Repository](https://github.com/Viacheslav-Bo/Paw-paws-little-house)
 
-* **[Coffee Shop](https://viacheslav-bo.github.io/project-06/)** — Interactive menu application | [GitHub Code](https://github.com/Viacheslav-Bo/project-06)
-  * **Role:** Team Lead.
-  * **Stack:** Vanilla JavaScript, HTML5/CSS3, Vite, Component-driven HTML injection.
+* **[Coffee Shop](https://viacheslav-bo.github.io/project-06/)** — Interactive menu application
+    * 📋 **Role:** Team Lead. 🛠 **Tech:** Vanilla JS, Vite, HTML5/CSS3.
+    * 🔗 [GitHub Repository](https://github.com/Viacheslav-Bo/project-06)
 
 ---
 
