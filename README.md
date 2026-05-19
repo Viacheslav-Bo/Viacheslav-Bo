@@ -35,15 +35,15 @@
 
 * **[Leleka](https://final-project-screencast-front.vercel.app)** — Pregnancy Monitoring Platform
     * 🛠 **Tech:** Next.js 16, TypeScript, Antd, TanStack Query, Zustand, Node.js, Express 5, MongoDB, Cloudinary.
-    * 🔗 [GitHub Repository](https://github.com/Viacheslav-Bo/final-project-screencast-front)
+    * 🔗 **GitHub:** [Frontend](https://github.com/bozhenko-zakhar/final_project_screencast_front) | [Backend](https://github.com/bozhenko-zakhar/final_project_screencast_back)
 
 * **[RentalCar](https://bobivnyk-rental-car.vercel.app/)** — Car Rental Platform
     * 🛠 **Tech:** Next.js 16, TypeScript, React 19, React Compiler, TanStack Query, Zustand, React-Select.
-    * 🔗 [GitHub Repository](https://github.com/Viacheslav-Bo/rental-car)
+    * 🔗 [GitHub Repository](https://github.com/Viacheslav-Bo/RentalCar)
 
 * **[Paw-paws](https://andreigubsky.github.io/Paw-paws-little-house/)** — Pet adoption platform
     * 📋 **Role:** Scrum Master. 🛠 **Tech:** Vanilla JS, Vite, Axios, Swiper, AOS, SweetAlert2.
-    * 🔗 [GitHub Repository](https://github.com/Viacheslav-Bo/Paw-paws-little-house)
+    * 🔗 [GitHub Repository](https://github.com/andreigubsky/Paw-paws-little-house)
 
 * **[Coffee Shop](https://viacheslav-bo.github.io/project-06/)** — Interactive menu application
     * 📋 **Role:** Team Lead. 🛠 **Tech:** Vanilla JS, Vite, HTML5/CSS3.
