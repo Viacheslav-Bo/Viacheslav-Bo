@@ -28,22 +28,26 @@
 ---
 
 ### 🚀 Projects
-* **Leleka:** A system for business records management.
-* **RentalCar:** Fullstack application featuring advanced filtering and external API integrations.
-* **Paw-paws:** Collaborative project focusing on REST API architecture and database validation.
+
+* **[Leleka](https://final-project-screencast-front.vercel.app)** — Pregnancy Monitoring Platform
+    
+* **[RentalCar](https://bobivnyk-rental-car.vercel.app/)** — Car Rental Platform with dynamic filtering
+   
+* **[Paw-paws](https://andreigubsky.github.io/Paw-paws-little-house/)** — Pet adoption platform
+    
+* **[Coffee Shop](https://viacheslav-bo.github.io/project-06/)** — Interactive menu application
 
 ---
 
 ### 📫 Let's connect
 <p align="center">
-  <a href="https://linkedin.com/in/ТВІЙ_ПРОФІЛЬ">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://t.me/Menyanthes">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
+
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Viacheslav-Bo&style=flat-square&color=blue" alt="Visitor count" />
 </p>
