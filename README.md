@@ -1,16 +1,8 @@
 <h1 align="center">
   Hi, I'm Viacheslav! 👋
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=435&lines=Learning%2C+building+and+growing;Fullstack+Developer;JavaScript%2C+React%2C+Node.js;Solving+business+tasks+with+code" alt="Typing SVG"/> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=435&lines=Learning%2C+building+and+growing;React%2C+Next.js%2C+Node.js" alt="Typing SVG"/> 
 </h1>
-
----
-
-### 💡 About Me
-* **Background:** I have a strong background in business and logistics management. This helps me quickly understand how IT solutions drive business value and solve real-world problems.
-* **Focus:** I enjoy the full development process — from building responsive user interfaces to writing server-side logic and connecting them with APIs.
-* **Goal:** Currently seeking a Junior Fullstack Developer position. I am eager to join a professional team, learn best practices, and contribute to meaningful projects.
-* **Work Style:** I write clean, well-documented code and am comfortable working in Agile/Scrum environments. I'm a fast learner and a proactive team player.
 
 ---
 
@@ -24,6 +16,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 </p>
+
+---
+
+### 💡 About Me
+* **Background:** I have a strong background in business and logistics management. This helps me quickly understand how IT solutions drive business value and solve real-world problems.
+* **Focus:** I enjoy the full development process — from building responsive user interfaces to writing server-side logic and connecting them with APIs.
+* **Goal:** Currently seeking a Junior Fullstack Developer position. I am eager to join a professional team, learn best practices, and contribute to meaningful projects.
+* **Work Style:** I write clean, well-documented code and am comfortable working in Agile/Scrum environments. I'm a fast learner and a proactive team player.
 
 ---
 
@@ -100,10 +100,7 @@
 ---
 -->
 
-### 👀 Visitor count
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Viacheslav-Bo&style=flat-square&color=blue" alt="Visitor count" />
 </p>
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" alt="Typing Fire" width="200" />
