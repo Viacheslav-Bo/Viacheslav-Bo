@@ -33,7 +33,7 @@
 
 ### 🚀 Projects
 
-* **[Just To Do It](https://to-do-list-frontend-dusky.vercel.app)** — Full-Stack Task Management Application
+* **[Just To Do It](https://todo.viach.dev)** — Full-Stack Task Management Application
     * 🛠 **Tech:** Next.js, TypeScript, Tailwind CSS, TanStack Query, Zustand, Node.js, Express, MongoDB, JWT, Docker.
     * ✨ **Features:** Task priorities, deadlines, advanced filtering, search, dashboard statistics, and privacy mode.
     * 🔗 **GitHub:** [Frontend](https://github.com/Viacheslav-Bo/to-do-list-frontend) | [Backend](https://github.com/Viacheslav-Bo/to-do-list-backend)
