@@ -35,7 +35,7 @@
 * **Backend:** Developing REST APIs, authentication, validation, and database-driven applications.
 * **Code:** I focus on writing clean, maintainable, and strictly typed code.
 * **Collaboration:** Experienced with Agile/Scrum workflows and team collaboration.
-* **Goal:** Currently looking for a **Junior Full-Stack Developer** position where I can grow, contribute to real-world projects, and learn from an experienced team.
+* **Goal:** Currently looking for a **Full-Stack Developer** position where I can grow, contribute to real-world projects.
 
 ---
 
