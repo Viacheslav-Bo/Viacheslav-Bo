@@ -30,13 +30,12 @@
 
 ### 💡 About Me
 
-* **Background:** Strong foundation in business and logistics. I focus on building software that solves real-world problems and creates actual value.
-
-* **Focus:** Fullstack development. I enjoy the entire process — from crafting responsive UIs with modern React frameworks to designing robust backend logic and APIs.
-  
-* **Work Style:** I value clean, maintainable code and Agile/Scrum collaboration. I am a fast learner, proactive team player, and always eager to take on new challenges.
-  
-* **Goal:** Currently looking for a Junior Fullstack Developer position to grow, learn from a great team, and contribute to impactful projects.
+* **Focus:** Full-Stack Development with **React, Next.js, TypeScript, Node.js, and Express.js**.
+* **Frontend:** Building responsive, user-friendly interfaces with modern React and Next.js.
+* **Backend:** Developing REST APIs, authentication, validation, and database-driven applications.
+* **Code:** I focus on writing clean, maintainable, and strictly typed code.
+* **Collaboration:** Experienced with Agile/Scrum workflows and team collaboration.
+* **Goal:** Currently looking for a **Junior Full-Stack Developer** position where I can grow, contribute to real-world projects, and learn from an experienced team.
 
 ---
 
