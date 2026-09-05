@@ -53,17 +53,6 @@
 * **[RentalCar](https://bobivnyk-rental-car.vercel.app/)** — Car Rental Platform
     * 🛠 **Tech:** Next.js 16, TypeScript, React 19, React Compiler, TanStack Query, Zustand, React-Select.
     * 🔗 [GitHub Repository](https://github.com/Viacheslav-Bo/RentalCar)
-
-* **[Paw-paws](https://andreigubsky.github.io/Paw-paws-little-house/)** — Pet adoption platform
-    * 📋 **Role:** Scrum Master. Facilitated daily stand-ups, ensured Agile delivery, and maintained codebase quality.
-    * 🛠 **Tech:** Vanilla JS, Vite, Axios, Swiper, AOS, SweetAlert2.
-    * 🔗 [GitHub Repository](https://github.com/andreigubsky/Paw-paws-little-house)
-
-* **[Coffee Shop](https://viacheslav-bo.github.io/project-06/)** — Interactive menu application
-    * 📋 **Role:** Team Lead. Managed task distribution, coordinated Git workflows, and maintained modular architecture.
-    * 🛠 **Tech:** Vanilla JS, Vite, HTML5/CSS3.
-    * 🔗 [GitHub Repository](https://github.com/Viacheslav-Bo/project-06)
-
 ---
 
 ### 📫 Let's connect
