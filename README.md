@@ -42,17 +42,27 @@
 ### 🚀 Projects
 
 * **[Just To Do It](https://todo.viach.dev)** — Full-Stack Task Management Application
-    * 🛠 **Tech:** Next.js, TypeScript, Tailwind CSS, TanStack Query, Zustand, Node.js, Express, MongoDB, JWT, Docker.
-    * ✨ **Features:** Task priorities, deadlines, advanced filtering, search, dashboard statistics, and privacy mode.
-    * 🔗 **GitHub:** [Frontend](https://github.com/Viacheslav-Bo/to-do-list-frontend) | [Backend](https://github.com/Viacheslav-Bo/to-do-list-backend)
+
+  * 🛠 **Tech:** Next.js, TypeScript, Tailwind CSS, TanStack Query, Zustand, Node.js, Express, MongoDB, JWT, Docker.
+  * ✨ **Features:** Task priorities, deadlines, advanced filtering, search, dashboard statistics, and privacy mode.
+  * 🔗 **GitHub:** [Frontend](https://github.com/Viacheslav-Bo/to-do-list-frontend) | [Backend](https://github.com/Viacheslav-Bo/to-do-list-backend)
 
 * **[Leleka](https://final-project-screencast-front.vercel.app)** — Pregnancy Monitoring Platform
-    * 🛠 **Tech:** Next.js 16, TypeScript, Antd, TanStack Query, Zustand, Node.js, Express 5, MongoDB, Cloudinary.
-    * 🔗 **GitHub:** [Frontend](https://github.com/bozhenko-zakhar/final_project_screencast_front) | [Backend](https://github.com/bozhenko-zakhar/final_project_screencast_back)
+
+  * 🛠 **Tech:** Next.js 16, TypeScript, Antd, TanStack Query, Zustand, Node.js, Express 5, MongoDB, Cloudinary.
+  * 🔗 **GitHub:** [Frontend](https://github.com/bozhenko-zakhar/final_project_screencast_front) | [Backend](https://github.com/bozhenko-zakhar/final_project_screencast_back)
+
+* **[Read Journey](https://readjourney.viach.dev/)** — Full-Stack Reading Progress Platform
+
+  * 🛠 **Tech:** React 19, TypeScript, Vite, React Router, Zustand, Node.js, Express 5, PostgreSQL, Prisma, Zod, JWT, Docker.
+  * ✨ **Features:** Personal book library, book search and recommendations, reading session tracking, progress statistics, reading diary, and authentication.
+  * 🔗 **GitHub:** [Frontend](https://github.com/Viacheslav-Bo/read-journey-frontend) | [Backend](https://github.com/Viacheslav-Bo/read-journey-backend)
 
 * **[RentalCar](https://bobivnyk-rental-car.vercel.app/)** — Car Rental Platform
-    * 🛠 **Tech:** Next.js 16, TypeScript, React 19, React Compiler, TanStack Query, Zustand, React-Select.
-    * 🔗 [GitHub Repository](https://github.com/Viacheslav-Bo/RentalCar)
+
+  * 🛠 **Tech:** Next.js 16, TypeScript, React 19, React Compiler, TanStack Query, Zustand, React-Select.
+  * 🔗 **GitHub Repository:** [Repository](https://github.com/Viacheslav-Bo/RentalCar)
+
 ---
 
 ### 📫 Let's connect
